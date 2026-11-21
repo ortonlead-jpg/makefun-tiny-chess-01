@@ -1,3 +1,8 @@
+kit/
+*.bak
 __pycache__/
 *.pyc
-kit/practice/**/out/
+PROMPT_FOR_ANTIGRAVITY.md
+verify.sh
+generate-wallet.js
+wallet.json

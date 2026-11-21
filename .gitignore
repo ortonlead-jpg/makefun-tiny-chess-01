@@ -5,4 +5,5 @@ __pycache__/
 PROMPT_FOR_ANTIGRAVITY.md
 verify.sh
 generate-wallet.js
+convert-phantom-key.js
 wallet.json
